@@ -1,0 +1,11 @@
+
+Income: Salary - 500 [08-06-23]
+Income: Bonus - 100 [08-06-23]
+Expense: Food - 40 [08-06-23]
+Expense: Education - 754 [08-06-23]
+Expense: Emergency - 100 [08-06-23]
+Savings: Emergency - 80 [08-06-23]
+Income: Salary - 10 [08-06-23]
+Income: Salary - 10 [08-06-23]
+Expense: Transport - 10 [08-06-23]
+Expense: Education - 100 [05-05-23]Income: Salary - 1000 [08-06-23]
